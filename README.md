@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niyaz</h1>
-<h3 align="center">A passionate Full-Stack developer from Azerbaijan</h3>
+<h3 align="center">A passionate .Net developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 - 🔭 I’m currently working on [Nileflix movie platform](https://github.com/stniyaz/nileflix)
