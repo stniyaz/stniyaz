@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nileflix movie platform](https://github.com/stniyaz/nileflix)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **JS,REACT**
 
 - 👨‍💻 Visit my personal <a href="https://999.black" target="_blank">website</a>
 
