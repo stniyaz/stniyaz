@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **JS,REACT**
 
-- 👨‍💻 Visit my personal <a href="https://999.black" target="_blank">website</a>
-
 - 💬 Ask me about **C#, ASP.NET MVC/API**
 
 - 📫 How to reach me **n.soltanov13@gmail.com**
