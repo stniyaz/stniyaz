@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **n.soltanov13@gmail.com**
 
-- 📄 Here is my <a href="https://drive.google.com/file/d/1XWaIxUM4sHCcOt_rI8LlYoH5JR4XAPhi/view" target="_blank">CV</a> 
+- 📄 Here is my <a href="https://drive.google.com/file/d/1OMANsw0GC3dz5JgYKrJL-WCMzgatzZpr/view?usp=sharing" target="_blank">CV</a> 
 
 - ⚡ Fun fact **I love sleepless nights**
 
