@@ -2,15 +2,15 @@
 <h3 align="center">A passionate .Net developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-- 🔭 I’m currently working on [Nileflix movie platform](https://github.com/stniyaz/nileflix)
+- 🔭 I’m currently working on [Microservices Project](https://github.com/stniyaz/MultiShop-Microservices)
 
-- 🌱 I’m currently learning **JS,REACT**
+- 🌱 I’m currently learning **RabbitMQ**
 
 - 💬 Ask me about **C#, ASP.NET MVC/API**
 
-- 📫 How to reach me **n.soltanov13@gmail.com**
+- 📫 How to reach me **soltanovniyaz@gmail.com**
 
-- 📄 Here is my <a href="https://drive.google.com/file/d/1OMANsw0GC3dz5JgYKrJL-WCMzgatzZpr/view?usp=sharing" target="_blank">CV</a> 
+- 📄 Here is my <a href="https://drive.google.com/file/d/1PghUWy_toHGJz3kdqq0xSuysRr1TpMEE/view?usp=sharing" target="_blank">CV</a> 
 
 - ⚡ Fun fact **I love sleepless nights**
 
